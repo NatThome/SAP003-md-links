@@ -34,5 +34,8 @@
   "bugs": {
     "url": "https://github.com/NatThome/SAP003-md-links/issues"
   },
-  "homepage": "https://github.com/NatThome/SAP003-md-links#readme"
+  "homepage": "https://github.com/NatThome/SAP003-md-links#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
