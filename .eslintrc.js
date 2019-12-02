@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    browser: true,
+    browser: false,
     es6: true,
     'jest/globals': true,
   },
@@ -10,7 +10,6 @@ module.exports = {
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly',
-    firebase: 'readonly',
   },
   plugins: ['jest'],
   parserOptions: {
